@@ -85,6 +85,3 @@ Mobile View of Category Section
   2. Add and manage your job applications.
   3. Use the provided features for better organization and tracking.
 
-## Contact
-
-If you have any questions or feedback, please contact me at sampriti275@gmail.com I'd love to hear from you!
