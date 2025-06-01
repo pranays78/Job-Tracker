@@ -47,7 +47,7 @@ Mobile View of Category Section
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sampriti27/JobTrackr.git
+   git clone https://github.com/pranays78/JobTrackr.git
    cd JobTrackr
    
 2. Install dependencies: 
